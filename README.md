@@ -18,4 +18,4 @@ pdflatex <filename>.tex
 - [ ] Add constants PI, e, etc.
 - [ ] Add more content
 - [ ] Remove broken unit circle
-- [ ] Remove quote
+- [X] Remove quote
